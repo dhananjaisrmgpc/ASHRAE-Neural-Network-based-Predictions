@@ -1,0 +1,17 @@
+Download data set for ASHRAE via kaggle.
+https://www.kaggle.com/c/ashrae-energy-prediction
+
+You must have following csv files on which the code will train and test itself:
+building_metadata
+sample_submission
+test
+train
+weather_test
+weather_train
+
+I have used the baseline code and the data analysis source from by Jason Zivkovic, LSTM given by Rico Hoffmann
+https://www.kaggle.com/jaseziv83/a-deep-dive-eda-into-all-variables
+https://towardsdatascience.com/understanding-gradient-boosting-machines-9be756fe76ab
+https://medium.com/@pushkarmandot/https-medium-com-pushkarmandot-what-is-lightgbm-how-to-implement-it-how-to-fine-tune-the-parameters-60347819b7fc
+https://www.kaggle.com/drcapa/ashrae-datagenerator-lstm/notebook
+https://www.kaggle.com/aitude/ashrae-kfold-lightgbm-without-leak-1-08
